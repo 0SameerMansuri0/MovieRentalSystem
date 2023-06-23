@@ -1,0 +1,68 @@
+﻿@model IEnumerable<MovieRentalApp.Models.Movie>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieCategory)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.MovieRentPrice)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ActorName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.DirectorName)
+            </th>
+            <th>
+               Image
+            </th>
+            
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieCategory)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.MovieRentPrice)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ActorName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.DirectorName)
+            </td>
+            <td>
+                    <img src="@Html.DisplayFor(modelItem => item.ImagePath)" style="max-width: 100px; max-height: 100px;">
+                
+            </td>
+            
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.MovieId">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.MovieId">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.MovieId">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

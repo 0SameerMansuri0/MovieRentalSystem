@@ -1,0 +1,62 @@
+﻿@model MovieRentalApp.Models.Bookiing
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to Cancel Booking?</h3>
+<div>
+    <h4>Bookiing</h4>
+    <hr />
+    <dl class="row">
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.bookingId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.bookingId)
+        </dd>
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.movieId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.movieId)
+        </dd>
+
+        <dt class="col-sm-2">
+            @Html.DisplayNameFor(model => model.userId)
+        </dt>
+        <dd class="col-sm-10">
+            @Html.DisplayFor(model => model.userId)
+        </dd>
+
+
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.movieName)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.movieName)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.moviePrice)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.moviePrice)
+        </dd>
+        
+        
+    </dl>
+    
+    <form asp-action="Delete" asp-controller="Booking" method="post">
+        @Html.HiddenFor(model => model.bookingId)
+        @Html.HiddenFor(model => model.movieId)
+        @Html.HiddenFor(model => model.userId)
+        @Html.HiddenFor(model => model.movieName)
+        @Html.HiddenFor(model => model.moviePrice)
+
+        <input type="submit" value="Cancel Booking" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+
+</div>

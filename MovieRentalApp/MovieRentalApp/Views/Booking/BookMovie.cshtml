@@ -1,0 +1,65 @@
+﻿
+
+
+@model MovieRentalApp.Models.Movie
+
+@{
+    ViewData["Title"] = "BookMovie";
+}
+
+<h1 class="text-white">BookMovie</h1>
+
+<div>
+    <h4 class="text-white">Movie</h4>
+    <hr />
+    <dd class="col-sm-10">
+        <img src="@Html.DisplayFor(model => model.ImagePath)" class="img-fluid rounded" alt="Movie Image" style="max-width: 200px; height: 200px; float: right; margin-bottom: 10px;">
+    </dd>
+    <dl class="row">
+        <dt class="col-sm-2">
+            <span class="text-white">Movie Name:</span>
+        </dt>
+        <dd class="col-sm-10">
+            <span class="text-white">@Html.DisplayFor(model => model.MovieName)</span>
+        </dd>
+        <dt class="col-sm-2">
+            <span class="text-white">@Html.DisplayNameFor(model => model.MovieCategory)</span>
+        </dt>
+        <dd class="col-sm-10">
+            <span class="text-white">@Html.DisplayFor(model => model.MovieCategory)</span>
+        </dd>
+        <dt class="col-sm-2">
+            <span class="text-white">@Html.DisplayNameFor(model => model.MovieRentPrice)</span>
+        </dt>
+        <dd class="col-sm-10">
+            <span class="text-white">@Html.DisplayFor(model => model.MovieRentPrice)</span>
+        </dd>
+        <dt class="col-sm-2">
+            <span class="text-white">@Html.DisplayNameFor(model => model.ActorName)</span>
+        </dt>
+        <dd class="col-sm-10">
+            <span class="text-white">@Html.DisplayFor(model => model.ActorName)</span>
+        </dd>
+        <dt class="col-sm-2">
+            <span class="text-white">@Html.DisplayNameFor(model => model.DirectorName)</span>
+        </dt>
+        <dd class="col-sm-10">
+            <span class="text-white">@Html.DisplayFor(model => model.DirectorName)</span>
+        </dd>
+    </dl>
+</div>
+<div>
+    <form asp-action="BookMovie" asp-controller="booking" method="post">
+        <input type="hidden" asp-for="MovieId" value="@Model.MovieId" />
+        <input type="hidden" asp-for="MovieName" value="@Model.MovieName" />
+        <input type="hidden" asp-for="MovieCategory" value="@Model.MovieCategory" />
+        <input type="hidden" asp-for="MovieRentPrice" value="@Model.MovieRentPrice" />
+        <input type="hidden" asp-for="ActorName" value="@Model.ActorName" />
+        <input type="hidden" asp-for="DirectorName" value="@Model.DirectorName" />
+        <input type="hidden" asp-for="ImagePath" value="@Model.ImagePath" />
+
+        <button type="submit" class="text-white btn btn-primary">Book</button> |
+        <a asp-action="Index" class="text-white">Back to List</a>
+    </form>
+</div>
+

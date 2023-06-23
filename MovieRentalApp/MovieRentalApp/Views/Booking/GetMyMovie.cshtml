@@ -1,0 +1,45 @@
+﻿@model IEnumerable<MovieRentalApp.Models.Bookiing>
+
+@{
+    ViewData["Title"] = "GetMyMovie";
+}
+
+<h1>MyMovies</h1>
+
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.movieName)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.moviePrice)
+            </th>
+           
+            <th>
+                @Html.DisplayNameFor(model => model.user)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.movieName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.moviePrice)
+            </td>
+           
+            
+            <td>
+                
+               
+                <a asp-action="Delete" asp-route-id="@item.bookingId">Cancel Booking</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

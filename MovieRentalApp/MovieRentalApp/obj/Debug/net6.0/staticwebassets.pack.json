@@ -1,0 +1,385 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\MovieRentalApp.bundle.scp.css",
+      "PackagePath": "staticwebassets\\MovieRentalApp.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image1.jpg",
+      "PackagePath": "staticwebassets\\images\\image1.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image10.jpg",
+      "PackagePath": "staticwebassets\\images\\image10.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image11.jpg",
+      "PackagePath": "staticwebassets\\images\\image11.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image12.jpg",
+      "PackagePath": "staticwebassets\\images\\image12.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image13.jpg",
+      "PackagePath": "staticwebassets\\images\\image13.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image14.jpg",
+      "PackagePath": "staticwebassets\\images\\image14.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image15.jpg",
+      "PackagePath": "staticwebassets\\images\\image15.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image16.jpg",
+      "PackagePath": "staticwebassets\\images\\image16.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image17.jpg",
+      "PackagePath": "staticwebassets\\images\\image17.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image18.jpg",
+      "PackagePath": "staticwebassets\\images\\image18.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image19.jpg",
+      "PackagePath": "staticwebassets\\images\\image19.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image2.jpg",
+      "PackagePath": "staticwebassets\\images\\image2.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image20.jpg",
+      "PackagePath": "staticwebassets\\images\\image20.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image21.jpg",
+      "PackagePath": "staticwebassets\\images\\image21.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image22.jpg",
+      "PackagePath": "staticwebassets\\images\\image22.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image23.jpg",
+      "PackagePath": "staticwebassets\\images\\image23.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image24.jpg",
+      "PackagePath": "staticwebassets\\images\\image24.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image25.jpg",
+      "PackagePath": "staticwebassets\\images\\image25.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image26.jpg",
+      "PackagePath": "staticwebassets\\images\\image26.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image27.jpg",
+      "PackagePath": "staticwebassets\\images\\image27.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image28.jpg",
+      "PackagePath": "staticwebassets\\images\\image28.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image29.jpg",
+      "PackagePath": "staticwebassets\\images\\image29.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image3.jpg",
+      "PackagePath": "staticwebassets\\images\\image3.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image30.jpg",
+      "PackagePath": "staticwebassets\\images\\image30.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image4.jpg",
+      "PackagePath": "staticwebassets\\images\\image4.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image5.jpg",
+      "PackagePath": "staticwebassets\\images\\image5.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image6.jpg",
+      "PackagePath": "staticwebassets\\images\\image6.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image7.jpg",
+      "PackagePath": "staticwebassets\\images\\image7.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image8.jpg",
+      "PackagePath": "staticwebassets\\images\\image8.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\images\\image9.jpg",
+      "PackagePath": "staticwebassets\\images\\image9.jpg"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.MovieRentalApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.MovieRentalApp.props",
+      "PackagePath": "build\\MovieRentalApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.MovieRentalApp.props",
+      "PackagePath": "buildMultiTargeting\\MovieRentalApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.MovieRentalApp.props",
+      "PackagePath": "buildTransitive\\MovieRentalApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
