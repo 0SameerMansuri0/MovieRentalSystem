@@ -10,7 +10,7 @@ steps:
     publishWebProjects: true
 - task: AzureWebApp@1
   inputs:
-    azureSubscription: 'cicdapp'
+    azureSubscription: 'cicdconnection'
     appType: 'webAppLinux'
     appName: 'movierental-cicd-webapp'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
