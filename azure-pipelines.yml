@@ -4,6 +4,7 @@ variables:
 
 steps:
 - script: |
+    cd MovieRentalApp
     dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
 - task: DotNetCoreCLI@2
