@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj": {}
+    "C:\\Users\\User\\Source\\Repos\\0SameerMansuri0\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj": {
+    "C:\\Users\\User\\Source\\Repos\\0SameerMansuri0\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
+        "projectUniqueName": "C:\\Users\\User\\Source\\Repos\\0SameerMansuri0\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
         "projectName": "MovieRentalApp",
-        "projectPath": "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
+        "projectPath": "C:\\Users\\User\\Source\\Repos\\0SameerMansuri0\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
         "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\obj\\",
+        "outputPath": "C:\\Users\\User\\Source\\Repos\\0SameerMansuri0\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
