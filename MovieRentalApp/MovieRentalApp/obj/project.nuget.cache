@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "xa+nrhVj4XFGPoomFVGBpjcmnpIBT8qmne+wY4auW4iml5/H4AHgH9wKWMMRath/87QoNRGPI70euVOq/vsnxA==",
+  "dgSpecHash": "FGpoS1utLjeZ76yhMkhzxkg0PLw36W4tuceQr8QqGF4iOi95CXL4oGqMVZIeNoBugXQYxrdDLp/m6cyOH82O8w==",
   "success": true,
-  "projectFilePath": "C:\\Tranning\\C# training\\29_16_training\\Projects\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
+  "projectFilePath": "C:\\Users\\User\\Source\\Repos\\MovieRentalSystem\\MovieRentalApp\\MovieRentalApp\\MovieRentalApp.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\User\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\User\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
