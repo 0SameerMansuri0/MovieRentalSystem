@@ -4,7 +4,7 @@ variables:
 
 steps:
 - script: |
-    cd MovieRentalApp/MovieRentalApp.sln
+    cd https://github.com/0SameerMansuri0/MovieRentalSystem/blob/160099a2efad082fcef8580080b370f43d1aa1be/MovieRentalApp/MovieRentalApp.sln
     dotnet build --configuration $(buildConfiguration)
   displayName: 'dotnet build $(buildConfiguration)'
 - task: DotNetCoreCLI@2
